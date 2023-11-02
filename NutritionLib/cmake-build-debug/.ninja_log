@@ -1,0 +1,15 @@
+# ninja log v5
+0	278	7206224038544786	CMakeFiles/NutritionLib.dir/main.cpp.obj	d4c98b87edf1ab48
+283	355	7206224039291738	NutritionLib.exe	a41c8cfc81ce81e0
+2	215	7206279682342820	Foundation/Tests/CMakeFiles/tester.dir/main.cpp.obj	9a2946388b6eb724
+0	100	7206285516616609	build.ninja	3bce2ec2a7da6049
+2	238	7206258594968426	Tests/CMakeFiles/tester.dir/main.cpp.obj	465670f7c040cf8b
+1	243	7206256808907664	CMakeFiles/NutritionLib.dir/Nutrition.cpp.obj	9ebdd8909be96214
+238	293	7206258595498420	Tests/tester.exe	2115ac541ac1db7a
+243	280	7206256809277640	libNutritionLib.a	9fde495ae7721eb7
+2	156	7206285012175917	Foundation/CMakeFiles/NutritionLib.dir/src/Nutrition.cpp.obj	a1a34e0556e55a80
+156	235	7206285012971014	Foundation/libNutritionLib.a	9faa9d87c6bcfa0b
+220	274	7206279682908220	Foundation/Tests/tester.exe	9c86a00776c1ef91
+1	83	7206285516616609	build.ninja	3bce2ec2a7da6049
+1	229	7206285519212238	Foundation/Tests/CMakeFiles/tester.dir/main.cpp.obj	2ead66d9c208f1bc
+229	344	7206285520348631	Foundation/Tests/tester.exe	9c86a00776c1ef91

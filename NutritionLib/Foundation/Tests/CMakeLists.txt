@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.26)
+add_executable(tester main.cpp)
+target_include_directories(NutritionLib PUBLIC ${CMAKE_SOURCE_DIR}/Foundation/include/NutritionLib)
+target_link_libraries(tester PRIVATE NutritionLib)
+add_test(NAME Nutrition.Commands.Eat COMMAND tester "eat")

@@ -1,0 +1,11 @@
+D:/git/cpp-projects/NutritionLib/cmake-build-debug/CMakeFiles/test.dir
+D:/git/cpp-projects/NutritionLib/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/git/cpp-projects/NutritionLib/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/git/cpp-projects/NutritionLib/cmake-build-debug/Foundation/CMakeFiles/NutritionLib.dir
+D:/git/cpp-projects/NutritionLib/cmake-build-debug/Foundation/CMakeFiles/test.dir
+D:/git/cpp-projects/NutritionLib/cmake-build-debug/Foundation/CMakeFiles/edit_cache.dir
+D:/git/cpp-projects/NutritionLib/cmake-build-debug/Foundation/CMakeFiles/rebuild_cache.dir
+D:/git/cpp-projects/NutritionLib/cmake-build-debug/Foundation/Tests/CMakeFiles/tester.dir
+D:/git/cpp-projects/NutritionLib/cmake-build-debug/Foundation/Tests/CMakeFiles/test.dir
+D:/git/cpp-projects/NutritionLib/cmake-build-debug/Foundation/Tests/CMakeFiles/edit_cache.dir
+D:/git/cpp-projects/NutritionLib/cmake-build-debug/Foundation/Tests/CMakeFiles/rebuild_cache.dir

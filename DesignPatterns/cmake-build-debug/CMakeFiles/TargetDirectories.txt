@@ -1,0 +1,3 @@
+D:/git/cpp-projects/DesignPatterns/cmake-build-debug/CMakeFiles/DesignPatterns.dir
+D:/git/cpp-projects/DesignPatterns/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/git/cpp-projects/DesignPatterns/cmake-build-debug/CMakeFiles/rebuild_cache.dir

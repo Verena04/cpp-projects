@@ -1,0 +1,104 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Foundation",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-Foundation-Debug-4626ae59c37ba9e1cb93.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Foundation",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Foundation/Tests",
+					"jsonFile" : "directory-Foundation.Tests-Debug-5abcb5bc535883b46766.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "Foundation/Tests",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "NutritionLib",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "NutritionLib::@03697081e5612e2e24a8",
+					"jsonFile" : "target-NutritionLib-Debug-90c3ac8883893c84da29.json",
+					"name" : "NutritionLib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "tester::@d3fc9ed2bd3937445374",
+					"jsonFile" : "target-tester-Debug-485a329bfc7dde92684d.json",
+					"name" : "tester",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/git/cpp-projects/NutritionLib/cmake-build-debug",
+		"source" : "D:/git/cpp-projects/NutritionLib"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
